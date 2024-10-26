@@ -1,0 +1,5 @@
+tkinter
+requests
+datetime
+matplotlib
+mysql-connector-python
